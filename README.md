@@ -2,7 +2,7 @@ Hello, random stranger reading here. I probably directed you here.
 I am currently studying mechatronics engineering at Erciyes University.
 I am passionate about probability, programming (mainly c++), game theory and robotics. 
 Many repos are just there so I can look back and say " wow, what an amateur I was! " so don't take them seriously.
-Except for blackjack, pattern_founder and gof_calculator. Take them seriosuly. Seriously. 
+Except for blackjack_real, pattern_founder and gof_calculator. Take them seriosuly. Seriously. 
 
 So far, around %95 of code, algorithm and structure I have developed (for c++ projects) belongs entirely to me. 
 In a world where immature teenagers, liars and wannabe idiots copy and paste everything from the internet, I want to learn programming concepts in a very deep level.
@@ -12,7 +12,7 @@ That means I wrote couple of custom algorithms for my projects (I know, they are
 One that I am proud of is pattern_founder. I wrote it to detect repeating patterns in game of life so I can determine whether a given cell composition will live forever or not.
 gof_calculator also uses the same algorithm. (Sssh, I know it's supposed to be gol_calculator but I realized this like 2 months ago.)
 
-Blackjack program is by far, the most sophisticated code I have ever written. 
+Blackjack_real program is by far, the most sophisticated code I have ever written. 
 Except for the get_combinations function, all of it are written by me. (I had a mental breakdown while writing the tree function.)
 Highly suggest reading the rules and readme file before testing it though.
 You can try it for yourself. Tell me how many games it took for you to beat him.
