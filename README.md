@@ -1,14 +1,10 @@
-Hello, random stranger reading here. I probably directed you here.
-I am currently studying mechatronics engineering at Erciyes University.
-I am passionate about probability, programming (mainly embedded), game theory and robotics. 
-Many repos are just there so I can look back and say " wow, what an amateur I was! " so don't take them seriously.
-Except for bluffjack. Take it seriously. Seriously.
+While many people around me rely on artificial intelligence even for simple programming tasks, I chose the harder path. When I first encountered C++ in my first year, I became obsessed with Conway’s Game of Life. During boring classes I would take out my notebook and try to design the program on paper using only my most basic programming knowledge. After class, I would sit down at my computer and try to turn those ideas into an actual program. When it finally worked, the satisfaction was something I doubt “vibe coders” will ever experience.
+Later, I learned about concepts like Turing completeness and the Halting Problem, and their relationship with the Game of Life. The Halting Problem states that no general algorithm can determine whether a given initial configuration will run forever or eventually stop. Even knowing this, I spent weeks experimenting with a method I believed might work. Spoiler alert: It didn’t.
 
-Highly recommend looking at st_epl. Oh, and please ignore the ridiculous amount of commit+push for _epl repo's. It's only because I had to install a desktopless OS for the teams RPI Zero and it's a pain in the ass to edit something directly in there, no matter how small it is.
+I tried to write a bot for a card game I designed called Bluffjack. The challenge was not writing the program itself, but deciding how the bot should make decisions. I rewrote the program many times from scratch, trying to improve it each time.
 
-So far vast majority of code, algorithm and structure I have developed belongs entirely to me. 
-In a world where immature teenagers, liars and wannabe idiots copy and paste everything from the internet, I want to learn programming concepts in a very deep level.
-Before you start saying "well you gotta be comfortable working with AI", I already know that. And I do work with AI and stackoverflow sometimes, but these are the exceptions, not the rule.
-That means I wrote couple of custom algorithms for my projects (I know, they are probably very inefficent but gotta start somewhere) 
+In my second year, my classmates and I joined the Teknofest Model Satellite Competition. I was the only person responsible for software. I had to learn TCP/IP, UDP, UART, I²C, Raspberry Pi, Linux, Python, ESP32, and more from scratch. The software worked, but we were eliminated during the report stage and never reached the competition itself. Not every story has a happy ending, I guess.
 
-And.. that's about it?
+So am I against artificial intelligence? Not at all. Because I built a strong foundation, I can now use AI effectively—for library research, debugging, configuration problems etc. In fact, I even had Claude and ChatGPT write a Python program that automatically masks speech bubbles for TF2 comic translations. I modified only 2 lines of code.
+
+So I know both ends of the "vibe coding" spectrum and I can adapt and work accordingly.
